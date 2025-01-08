@@ -1,83 +1,12 @@
-Certi Hub - Certificate Issuing Platform
+# 💫 About Me:
+Certi-Hub<br>🎯 Objective<br>Certi-Hub simplifies the process of issuing and viewing certificates. Designed for institutions and organizations, it ensures efficiency, transparency, and accuracy in managing and distributing certificates. The system provides a user-friendly interface and a robust backend for secure operations.<br><br>🛠️ Built With<br>Frontend: HTML, CSS, JavaScript<br>Backend: Node.js, Express.js<br>Database: MongoDB<br>State Management: Redux<br>⚙️ Getting Started<br>To run the project locally, follow these steps:<br><br>🚀 Frontend Setup<br>Clone the repository:<br>bash<br>Copy code<br>git clone https://github.com/yourusername/certi-hub.git<br>Navigate to the frontend directory:<br>bash<br>Copy code<br>cd frontend<br>Open the application in your browser or local server.<br>🔧 Backend Setup<br>Navigate to the backend directory:<br>bash<br>Copy code<br>cd backend<br>Install the dependencies:<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-🔗 Objective
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akhilchandps&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akhilchandps&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilchandps&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Certi Hub is a platform designed to issue certificates to users based on a specific ID. By entering a valid ID, users can instantly generate and download their certificate, ensuring a streamlined and efficient process for verification and distribution.
+---
+[![](https://visitcount.itsvg.in/api?id=akhilchandps&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🔧 Built With
-
-Frontend: React.js, CSS, JavaScript
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-⚙️ Getting Started
-
-To run the project locally, follow these steps:
-
-🚀 Frontend Setup
-
-Clone the repository:
-
-git clone https://github.com/akhilchandps/Certi-Hub.git
-
-Navigate to the frontend directory:
-
-cd frontend
-
-Install the dependencies:
-
-npm install
-
-Start the project:
-
-npm start
-
-🔧 Backend Setup
-
-Navigate to the backend directory:
-
-cd backend
-
-Install the dependencies:
-
-npm install
-
-Set up your environment variables by creating a .env file in the root of the backend directory with the following content:
-
-MONGO_URI=your_mongodb_connection_string
-PORT=your_preferred_port
-
-Start the server:
-
-npm start
-
-🔒 Features
-
-Certificate Issuance: Generate certificates instantly by entering a unique ID.
-
-Validation: Ensure the authenticity of certificates by linking them to a secure database.
-
-Customizable Templates: Admins can design and update certificate templates.
-
-Secure Access: Role-based access for admins and users to maintain security.
-
-🙎️ User Roles
-
-Admin: Full control over certificate templates, ID management, and issuance settings.
-
-Users: Enter a unique ID to retrieve their certificates.
-
-📚 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Languages Used:
-
-JavaScript
-
-CSS
-
-React.js
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
